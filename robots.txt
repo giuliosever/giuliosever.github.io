@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://giuliosever.github.io/al-folio/sitemap.xml
