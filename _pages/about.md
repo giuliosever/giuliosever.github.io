@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Trieste, Italy</p>
-    <p>gseverij[at]sissa[dot].it</p>
+    <p>gseverij[at]sissa[dot]it</p>
  
 
 news: false # includes a list of news items
