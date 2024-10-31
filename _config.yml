@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: brain_icon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: brain_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://giuliosever.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -243,6 +243,11 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
