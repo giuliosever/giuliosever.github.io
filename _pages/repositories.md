@@ -7,8 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-<!--{% if site.data.repositories.github_users %}-->
-
 ## Corpora
 #### Corpus of Dutch Lexical Stress (CooLeSt)
 Severijnen, G.G.A., Bosker, H.R., & McQueen, J.M. (2024). Corpus of Dutch Lexical Stress (CooLeSt). Version 2. Radboud University. (dataset). https://doi.org/10.34973/vkkk-yg79
