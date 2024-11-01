@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral researcher at <a href='#'>International School for Advanced Studies (SISSA)</a>.
 
