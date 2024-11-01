@@ -11,9 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-- **Severĳnen, G.G.A.**, Bosker, H.R., & McQueen, J.M. (2024). Your “VOORnaam” is not my “VOORnaam”: An acoustic analysis of individual talker differences in word stress in Dutch. *Journal of Phonetics*, 103, 101296. doi:  z[https://doi.org/10.1016/j.wocn.2024.101296](https://doi.org/10.1016/j.wocn.2024.101296)  
+- **Severĳnen, G.G.A.**, Bosker, H.R., & McQueen, J.M. (2024). Your “VOORnaam” is not my “VOORnaam”: An acoustic analysis of individual talker differences in word stress in Dutch. *Journal of Phonetics*, 103, 101296. doi: [https://doi.org/10.1016/j.wocn.2024.101296](https://doi.org/10.1016/j.wocn.2024.101296)  
 
-&nbsp;&nbsp;<i class="fa-regular fa-file-pdf"></i>     &nbsp;<i class="fa-solid fa-database"></i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa-regular fa-file-pdf"></i>     &nbsp;<i class="fa-solid fa-database"></i>
 
 - **Severĳnen, G.G.A.**, Gärtner, V.M., Walther, R.F., & McQueen, J.M. (2024). Talker-specific perceptual learning about lexical stress: Stability over time. *Speech Prosody 2024*, 657–661. doi: [https://doi.org/10.21437/SpeechProsody.2024-133](https://doi.org/10.21437/SpeechProsody.2024-133)
 
