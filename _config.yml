@@ -16,7 +16,6 @@ footer_text: >
 keywords: Giulio, Severijnen, SISSA, Donders # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: brain_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
 url: https://giuliosever.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -125,7 +124,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: "XsXBWAzvMJuJqO2xknqInkz_t-yJqEsVKCl63L0AE6A" # your google-site-verification ID (Google Search Console)
+google_site_verification: XsXBWAzvMJuJqO2xknqInkz_t-yJqEsVKCl63L0AE6A # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
