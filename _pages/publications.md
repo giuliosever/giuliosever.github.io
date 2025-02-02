@@ -26,7 +26,7 @@ The &nbsp; are to place whitespace and better align the icons  -->
 - **Severĳnen, G.G.A.**, Bosker, H.R., & McQueen, J.M. (2023). Syllable rate drives rate normalization,
 but is not the only factor. In R. Skarnitzl & J. Violín (Eds.), *Proceedings of the 20th international congress of the phonetic sciences (ICPhS 2023)*, (pp. 32–36).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2023_icphs23.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2023_icphs23.pdf) &nbsp; [<i class="ai ai-doi ai-lg"></i>] (https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/81.pdf)
 
 - **Severĳnen, G.G.A.**, Di Dona, G., Bosker, H.R., & McQueen, J.M. (2023). Tracking talker-specific cues
 to lexical stress: Evidence from perceptual learning. *Journal of Experimental Psychology: Human Perception and Performance*, 49(4), 549–565. doi: [https://doi.org/10.1037/xhp0001105](https://doi.org/10.1037/xhp0001105)

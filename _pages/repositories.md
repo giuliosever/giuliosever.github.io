@@ -21,7 +21,7 @@ This corpus contains speech recordings, recorded from 22 native speakers of Dutc
 
 This is a subset of the data that has been analyzed in [Severĳnen, G.G.A., Bosker, H.R., & McQueen, J.M. (2024). Your “VOORnaam” is not my “VOORnaam”: An acoustic analysis of individual talker differences in word stress in Dutch. *Journal of Phonetics*, 103, 101296.](https://doi.org/10.1016/j.wocn.2024.101296).
 
-For more details on the trial structure, acoustic measurements, and analysis scripts, please refer to the [paper](https://doi.org/10.1016/j.wocn.2024.101296). 
+For more details on the trial structure, acoustic measurements, and analysis scripts, please refer to the [paper](https://doi.org/10.1016/j.wocn.2024.101296) or get in touch with me.
 
 
 
