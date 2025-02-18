@@ -14,8 +14,6 @@ I'm very happy to announce that on a day filled with warm words, interesting que
 
 You can now also find my dissertation [online](https://repository.ubn.ru.nl/handle/2066/315703)
 
----
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1J8A5963.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
