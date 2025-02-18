@@ -14,10 +14,3 @@ After years of hard work, I'm happy and proud to say that I succesfully defended
 
 My dissertation is now also available online, and can be found [here](https://repository.ubn.ru.nl/handle/2066/315703).
 
----
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2V4A2221.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/1J8A6137.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/1J8A5963.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
