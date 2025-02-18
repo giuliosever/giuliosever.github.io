@@ -15,8 +15,15 @@ I'm very happy to announce that on a day filled with warm words, interesting que
 You can now also find my dissertation [online](https://repository.ubn.ru.nl/handle/2066/315703)
 
 ---
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/1J8A5963.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/1J8A6137.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2V4A2221.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/1J8A5963.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/1J8A6137.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2V4A2221.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
