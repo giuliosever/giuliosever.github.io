@@ -15,6 +15,10 @@ For every publication listed below, you can access the full text through the pub
 <!-- Every publication is given below. GGA Severijnen is given in boldface. Also, every publication has a doi, pdf, and dataset. These are included using icons, and then the link to that location. 
 The &nbsp; are to place whitespace and better align the icons  -->
 
+- **Severijnen, G.G.A.** (2025) A blessing in disguise: How prosodic variability challenges but also aids succesful speech perception. [Doctoral dissertation, Radboud University Nijmegen]. [https://repository.ubn.ru.nl/handle/2066/315703](https://repository.ubn.ru.nl/handle/2066/315703)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="ai ai-doi ai-lg"></i>](https://repository.ubn.ru.nl/handle/2066/315703)
+
 - **Severĳnen, G.G.A.**, Bosker, H.R., & McQueen, J.M. (2024). Your “VOORnaam” is not my “VOORnaam”: An acoustic analysis of individual talker differences in word stress in Dutch. *Journal of Phonetics*, 103, 101296. doi: [https://doi.org/10.1016/j.wocn.2024.101296](https://doi.org/10.1016/j.wocn.2024.101296)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2024_JPhon_accepted.pdf.pdf)     &nbsp; [<i class="fa-solid fa-database"></i>](https://doi.org/10.34973/6a6p-z140)   &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.wocn.2024.101296)
