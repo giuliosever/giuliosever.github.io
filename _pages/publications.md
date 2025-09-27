@@ -15,7 +15,7 @@ For every publication listed below, you can access the full text through the pub
 <!-- Every publication is given below. GGA Severijnen is given in boldface. Also, every publication has a doi, pdf, and dataset. These are included using icons, and then the link to that location. 
 The &nbsp; are to place whitespace and better align the icons  -->
 
--**Severĳnen, G. G. A.**, Bosker, H. R., & McQueen, J. M. (2025). Is rate-dependent perception affected by
+- **Severĳnen, G. G. A.**, Bosker, H. R., & McQueen, J. M. (2025). Is rate-dependent perception affected by
 linguistic information about the intended syllable rate? *Psychonomic Bulletin & Review*. doi: [10.3758/s13423-025-02746-x](https://doi.org/10.3758/s13423-025-02746-x)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2025_PBR.pdf) &nbsp; [<i class="fa-solid fa-database"></i>](https://doi.org/10.34973/ kw23-aa86) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://link.springer.com/article/10.3758/s13423-025-02746-x)

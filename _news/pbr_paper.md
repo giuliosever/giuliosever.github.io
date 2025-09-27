@@ -7,22 +7,10 @@ related_posts: false
 ---
 Our paper 'Is rate-dependent perception affected by linguistic information about the intended syllable rate?’, 
 authored by Giulio Severijnen, Hans Rutger Bosker, and James McQueen, was published in *Psychonomic Bulletin & Review*.
-In this project, we examined whether rate-dependent perception is affected by linguistic knowledge about the number of syllables in words.
 
-In two experiments, we showed that while linguistic knowledge affects percpetion in a word recognition task
-You can now also find my dissertation [online](https://repository.ubn.ru.nl/handle/2066/315703)
+In this paper, we examined which types of information listeners use during rate-dependent perception. More specifically, is it mostly driven by acoustic information (i.e., low-level, acoustics), or do listeners also make use of non-acoustic, linguistic information, such as tracking the number of syllables.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1J8A6137.JPG" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1J8A5963.JPG" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2V4A2221.JPG" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Pictures taken by Theo Hafmans.
-</div>
+We showed that listeners primarily seem to use acoustic cues, and not linguistic knowledge about the number of syllables rate during rate-dependent perception. These results are thus best accounted for by domain-general theories of rate-dependent perception.
+
+Want to read more about it? You can find the paper [here]((https://link.springer.com/article/10.3758/s13423-025-02746-x)
+)
