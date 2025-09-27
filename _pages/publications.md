@@ -15,6 +15,11 @@ For every publication listed below, you can access the full text through the pub
 <!-- Every publication is given below. GGA Severijnen is given in boldface. Also, every publication has a doi, pdf, and dataset. These are included using icons, and then the link to that location. 
 The &nbsp; are to place whitespace and better align the icons  -->
 
+-**Severĳnen, G. G. A.**, Bosker, H. R., & McQueen, J. M. (2025). Is rate-dependent perception affected by
+linguistic information about the intended syllable rate? *Psychonomic Bulletin & Review*. doi: [10.3758/s13423-025-02746-x](https://doi.org/10.3758/s13423-025-02746-x)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2025_PBR.pdf) &nbsp; [<i class="fa-solid fa-database"></i>](https://doi.org/10.34973/ kw23-aa86) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://link.springer.com/article/10.3758/s13423-025-02746-x)
+
 - Henry, M.J., Obleser, J., Crusey, M.R., (...et al.), **Severijnen, G.G.A.**, (...et al.), Peelle, J.R. (2025). How strong is the rhythm of perception? A registered replication of Hickok et al. (2015). *Royal Society Open science*, *12*(6), 220497, doi: [10.1098/rsos.220497](https://royalsocietypublishing.org/doi/10.1098/rsos.220497)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/Henry%20e.a.%20-%202025%20-%20How%20strong%20is%20the%20rhythm%20of%20perception%20A%20registered%20replication%20of%20Hickok%20et%20al%20.%20(2015).pdf) &nbsp; [<i class="fa-solid fa-database"></i>](https://osf.io/aytez/) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://royalsocietypublishing.org/doi/10.1098/rsos.220497)

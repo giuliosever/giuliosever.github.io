@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-You can also download my CV here [<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/2025-02-19_CV_Giulio_Severijnen.pdf)
+You can also download my CV here [<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/2025-09-27_CV_Giulio_Severijnen.pdf)
 
-*Last updated: 19 February, 2025*
-<iframe src="../assets/pdf/2025-02-19_CV_Giulio_Severijnen.pdf" width="1000" height="1200" style="border:none;"></iframe>
+*Last updated: 27 September, 2025*
+<iframe src="../assets/pdf/2025-09-27_CV_Giulio_Severijnen.pdf" width="1000" height="1200" style="border:none;"></iframe>
