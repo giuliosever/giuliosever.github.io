@@ -18,7 +18,7 @@ The &nbsp; are to place whitespace and better align the icons  -->
 - **Severĳnen, G. G. A.**, Bosker, H. R., & McQueen, J. M. (2025). Is rate-dependent perception affected by
 linguistic information about the intended syllable rate? *Psychonomic Bulletin & Review*. doi: [10.3758/s13423-025-02746-x](https://doi.org/10.3758/s13423-025-02746-x)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2025_PBR.pdf) &nbsp; [<i class="fa-solid fa-database"></i>](https://doi.org/10.34973/ kw23-aa86) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://link.springer.com/article/10.3758/s13423-025-02746-x)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2025_PBR.pdf) &nbsp; [<i class="fa-solid fa-database"></i>](https://doi.org/10.34973/kw23-aa86) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://link.springer.com/article/10.3758/s13423-025-02746-x)
 
 - Henry, M.J., Obleser, J., Crusey, M.R., (...et al.), **Severijnen, G.G.A.**, (...et al.), Peelle, J.R. (2025). How strong is the rhythm of perception? A registered replication of Hickok et al. (2015). *Royal Society Open science*, *12*(6), 220497, doi: [10.1098/rsos.220497](https://royalsocietypublishing.org/doi/10.1098/rsos.220497)
 
