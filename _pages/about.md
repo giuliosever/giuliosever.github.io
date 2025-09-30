@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher at <a href='#'>International School for Advanc
 
 profile:
   align: left
-  image: pasfoto_MPI.jpg
+  image: 1J8A5907.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Trieste, Italy</p>
