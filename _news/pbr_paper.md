@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 Our paper 'Is rate-dependent perception affected by linguistic information about the intended syllable rate?’, 
-authored by Giulio Severijnen, Hans Rutger Bosker, and James McQueen, was published in *Psychonomic Bulletin & Review*.
+authored by Giulio Severijnen, [Hans Rutger Bosker](https://www.ru.nl/en/people/bosker-h), and [James McQueen](https://www.ru.nl/en/people/mcqueen-j), was published in *Psychonomic Bulletin & Review*.
 
 In this paper, we examined which types of information listeners use during rate-dependent perception. More specifically, is it mostly driven by acoustic information (i.e., low-level, acoustics), or do listeners also make use of non-acoustic, linguistic information, such as tracking the number of syllables.
 
