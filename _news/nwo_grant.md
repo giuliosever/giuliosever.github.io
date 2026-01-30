@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awarded with an NWO Rubicon grant
+title: Awarded an NWO Rubicon grant
 date: 2026-01-16 09:00:00-0400
 inline: false
 related_posts: false
