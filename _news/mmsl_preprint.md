@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New preprint out on multimodal statistical learning!
-date: 2026-08-13 18:00:00-0400
+date: 2026-08-13 12:00:00-0400
 inline: false
 related_posts: false
 ---
