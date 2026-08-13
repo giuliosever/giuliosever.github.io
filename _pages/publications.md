@@ -9,9 +9,9 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-<h1 style = 'size: 14'>Preprints<h1>
+<h1 style = 'size: 14'>Preprints</h1>
 
-<p style = size: 12'>For every publication listed below, you can access the full text through the publisher's website (click on <span style = 'color: #c00000;'><i class="ai ai-doi ai-lg"></i></span>). If applicable, the author's accepted version (click on <span style = 'color: #c00000;'><i class="fa-regular fa-file-pdf"></i></span>). and the materials, data, and analysis scripts are made available (click on <span style = 'color: #c00000;'><i class="fa-solid fa-database"></i></span>).<br>
+For every publication listed below, you can access the full text through the publisher's website (click on <span style = 'color: #c00000;'><i class="ai ai-doi ai-lg"></i></span>). If applicable, the author's accepted version (click on <span style = 'color: #c00000;'><i class="fa-regular fa-file-pdf"></i></span>). and the materials, data, and analysis scripts are made available (click on <span style = 'color: #c00000;'><i class="fa-solid fa-database"></i></span>).<br>
 
 <!-- Every publication is given below. GGA Severijnen is given in boldface. Also, every publication has a doi, pdf, and dataset. These are included using icons, and then the link to that location. 
 The &nbsp; are to place whitespace and better align the icons  -->
@@ -64,4 +64,3 @@ prosody to deal with talker-variability. *Brain Research*, 1769. doi: [https://d
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-regular fa-file-pdf"></i>](../assets/pdf/severijnen_2021_BR_accepted.pdf)     &nbsp;[<i class="fa-solid fa-database"></i>](https://osf.io/8h6xb/?view_only=2a2818bdc29442f38a906e62cebd6dc2) &nbsp; [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.brainres.2021.147605)
 
-</p>
