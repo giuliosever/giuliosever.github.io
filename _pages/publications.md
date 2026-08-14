@@ -10,7 +10,7 @@ nav_order: 3
 <!-- _pages/publications.md -->
 
 <h2 style = 'font-size: 14'>Preprints</h2>
-These are preprints that of papers that have not yet gone through formal peer-review. 
+These are preprints of papers that have not yet gone through formal peer-review. If you have thoughts or feedback, feel free to reach out!
 
 - **Severĳnen, G. G. A.** & Crepaldi, D. (2026). A unified mechanism for statistical learning? Evidence from multimodal integration during learning. *PsyArXiv Preprints*. doi: [https://doi.org/10.31234/osf.io/qwbup_v1](https://doi.org/10.31234/osf.io/qwbup_v1)
 

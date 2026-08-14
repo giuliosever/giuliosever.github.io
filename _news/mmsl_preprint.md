@@ -12,7 +12,7 @@ In this project we examined multimodal integration during statistical learning. 
 Participants were simultaneously presented with auditory and visual syllable streams that contained hidden pseudotriplets. In a subsequent test task, we showed that participants were able to track different types of statistics.
 
 First, they tracked unimodal transitional probablities, extracting pseudotriplets in the auditory and visual modalities. Second, they also integrated across modalities to compute cross-modal transitional probabilities and extract cross-modal triplets.
-These results suggests that statistical learning can  compute statistics cross-modally, which sheds new light on the long-standing issue of whether SL is a unified, domain-general mechanism. 
+These results suggests that statistical learning can  compute statistics cross-modally, which sheds new light on the long-standing issue of whether statistical learning is a unified, domain-general mechanism. 
 
 Curious? Check out the preprint [here](https://osf.io/preprints/psyarxiv/qwbup_v1) and let us know what you think!
 
